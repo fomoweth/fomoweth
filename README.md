@@ -16,6 +16,12 @@ Check out my open-source Solidity repositories:
   <a href="https://github.com/fomoweth/account-abstraction">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fomoweth&repo=account-abstraction&theme=github_dark&description_lines_count=3" />
   </a>
+  <a href="https://github.com/fomoweth/route-processor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fomoweth&repo=route-processor&theme=github_dark&description_lines_count=3" />
+  </a>
+  <a href="https://github.com/fomoweth/aggregation-router">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fomoweth&repo=aggregation-router&theme=github_dark&description_lines_count=3" />
+  </a>
   <a href="https://github.com/fomoweth/leveraged-position">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fomoweth&repo=leveraged-position&theme=github_dark&description_lines_count=3" />
   </a>
