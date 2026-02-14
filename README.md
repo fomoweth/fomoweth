@@ -7,17 +7,17 @@ Check out my open-source Solidity repositories:
 
 ### Decentralized Applications
 
-- [ChainlinkRouter](https://github.com/fomoweth/chainlink-router) Oracle Routing & Price Derivation System
+- [Chainlink Router](https://github.com/fomoweth/chainlink-router) Oracle Routing & Price Derivation System
 - [Account Abstraction](https://github.com/fomoweth/account-abstraction) ERC-7579 Modular Smart Account Framework
-- [RouteProcessor](https://github.com/fomoweth/route-processor) Composable Route Processing Engine
-- [AggregationRouter](https://github.com/fomoweth/aggregation-router) Liquidity Aggregation & Execution Router
-- [LeveragedPosition](https://github.com/fomoweth/leveraged-position) Leveraged Position & Hedging Framework
-- [FlashloanAggregator](https://github.com/fomoweth/flashloan-aggregator) Multi-Protocol Flashloan Aggregation Layer
+- [Route Processor](https://github.com/fomoweth/route-processor) Composable Route Processing Engine
+- [Aggregation Router](https://github.com/fomoweth/aggregation-router) Liquidity Aggregation & Execution Router
+- [Leveraged Position](https://github.com/fomoweth/leveraged-position) Leveraged Position & Hedging Framework
+- [Flashloan Aggregator](https://github.com/fomoweth/flashloan-aggregator) Multi-Protocol Flashloan Aggregation Layer
 
 ### Smart Contract Toolkits
 
 - [CreateX](https://github.com/fomoweth/createx) Deterministic Deployment Framework
-- [ProxyForge](https://github.com/fomoweth/proxy-forge) Proxy Deployment & Upgrade Framework
-- [StorageSlot](https://github.com/fomoweth/storage-slot) EVM Storage Slot Utility Library
-- [PermitUtils](https://github.com/fomoweth/permit-utils) Permit & Signature Utility Toolkit
+- [Proxy Forge](https://github.com/fomoweth/proxy-forge) Proxy Deployment & Upgrade Framework
+- [Storage Slot](https://github.com/fomoweth/storage-slot) EVM Storage Slot Utility Library
+- [Permit Utils](https://github.com/fomoweth/permit-utils) Permit & Signature Utility Toolkit
 
