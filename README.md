@@ -1,6 +1,5 @@
-### Hi there, I'm fomoweth.
+### Hi there, I'm [![fomoweth](https://img.shields.io/static/v1?label=&message=fomoweth&color=black&logo=ethereum&logoColor=white)](https://rkim.xyz)
 
-[![fomoweth](https://img.shields.io/static/v1?label=&message=fomoweth&color=black&logo=ethereum&logoColor=white)](https://rkim.xyz)
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=50&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D1656&cacheSeconds=300)](https://codetime.dev)
 
 Check out my open-source Solidity repositories:
