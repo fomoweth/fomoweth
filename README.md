@@ -13,10 +13,11 @@ Check out my open-source Solidity repositories:
 - [Leveraged Position](https://github.com/fomoweth/leveraged-position) Leveraged Position & Hedging Framework
 - [Flashloan Aggregator](https://github.com/fomoweth/flashloan-aggregator) Multi-Protocol Flashloan Aggregation Layer
 
-### Smart Contract Toolkits
+### Solidity Libraries & Frameworks
 
 - [CreateX](https://github.com/fomoweth/createx) Deterministic Deployment Framework
 - [Proxy Forge](https://github.com/fomoweth/proxy-forge) Proxy Deployment & Upgrade Framework
+- [Solidity Dynamics](https://github.com/fomoweth/solidity-dynamics) String & Bytes Utility Library
 - [Storage Slot](https://github.com/fomoweth/storage-slot) EVM Storage Slot Utility Library
 - [Permit Utils](https://github.com/fomoweth/permit-utils) Permit & Signature Utility Toolkit
 
